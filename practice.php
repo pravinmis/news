@@ -11,6 +11,7 @@
             <input type="text" name="search" class="form-control" placeholder="Search .....">
 
                 <button type="submit" class="btn btn-danger">Search</button>
+                <button type="button" class="btn btn-danger">hii</button>
 
 
     </form>
