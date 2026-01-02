@@ -3,7 +3,7 @@
       <div class="container">
         <div class="row">
             <div class="col-md-8">
-              <h2>hello</h2>
+              <h2>hellos</h2>
                 <!-- post-container -->
                 <div class="post-container">
 
