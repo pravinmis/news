@@ -2,7 +2,8 @@
     <div id="main-content">
       <div class="container">
         <div class="row">
-            <div class="col-md-7">
+            <div class="col-md-8">
+              <h2>hello</h2>
                 <!-- post-container -->
                 <div class="post-container">
 

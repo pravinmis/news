@@ -3,6 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
+                  <h2>hello</h2>
                   <!-- post-container -->
                   <h2>hello</h2>
                     <div class="post-container">
